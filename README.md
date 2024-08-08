@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gitesh Roy Joggesser</h1>
-<h3 align="center">A passionate developer from Mauritius🏖️| 2rd Year BCS Student @Conestoga College.</h3>
+<h3 align="center">A passionate developer from Mauritius🏖️| 3rd Year BCS Student @Conestoga College.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/32/25/bc32252ba4c0b904b160e7cc864a9257.gif">
 
 - 🌱 I’m currently learning Frontend Development apart from College Courses. **HTML->CSS->JAVASCRIPT->Typescript**
