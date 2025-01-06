@@ -6,11 +6,9 @@
 <h3 align="center">A passionate developer from Mauritius🏖️| 3rd Year BCS Student @Conestoga College.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/32/25/bc32252ba4c0b904b160e7cc864a9257.gif">
 
-- 🌱 I’m currently looking for a 8 months CO-OP starting from Summer2025.
+- 🌱 I’m currently looking for a 8 months CO-OP starting from Summer 2025.
 
-- 🗽I'm also working on personal Projects. (AI/ML related)
-
-- 💬 Experience from College projects. **C/C++, C#, Python, Java, MySQL.**
+- 🗽I'm working on personal Projects. (AI/ML related)
 
 - 📫 How to reach me **giteshjogge25@gmail.com**
 
