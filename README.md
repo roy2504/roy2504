@@ -3,10 +3,8 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Gitesh Roy Joggesser</h1>
-<h3 align="center">A passionate developer from Mauritius🏖️| 3rd Year BCS Student @Conestoga College.</h3>
+<h3 align="center">A passionate developer from Mauritius🏖️| 4th Year BCS Student @Conestoga College.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/bc/32/25/bc32252ba4c0b904b160e7cc864a9257.gif">
-
-- 🌱 I’m currently looking for a 8 months CO-OP starting from Summer 2025.
 
 - 🗽I'm working on personal Projects. (AI/ML related)
 
